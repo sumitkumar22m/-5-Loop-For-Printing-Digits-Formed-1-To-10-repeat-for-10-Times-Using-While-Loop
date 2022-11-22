@@ -15,4 +15,4 @@ Output = Hello guys in this code i am show you or print the digits from (1 to 10
     12345678910
     12345678910
     
-<---------------THANKS FOR READING--------------->
+<---------------THANKS FOR READING-------------->
